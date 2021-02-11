@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608546216 source:d:\desktop\c++\codeblocks\battaglianavale\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608220888 source:d:\desktop\c++\codeblocks\tavolapitagorica\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+

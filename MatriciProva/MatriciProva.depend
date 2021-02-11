@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608056418 source:d:\desktop\c++\codeblocks\matriciprova\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+
