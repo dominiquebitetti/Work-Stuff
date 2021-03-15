@@ -1,0 +1,2 @@
+I numeri maggiori del numero scelto da te (50) sono: 
+63	64	94	72	54	90	53	95	53	69	76	53	94	77	73	61	61	54	72	

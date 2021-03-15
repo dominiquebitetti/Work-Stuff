@@ -1,0 +1,3 @@
+I multipli di 5 sono: 
+45 - 65 - 765 - 0 ; 
+Il programma e' finito
